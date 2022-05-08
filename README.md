@@ -25,9 +25,25 @@ Installations:
 
 Implementation of sign language project with GUI
 
-![image](https://user-images.githubusercontent.com/88571564/167299443-f383fb95-c89f-4af9-96dd-d96089b8e779.png)
-
 The sign language  custom file contains code for creation of dataset folders, capturing images and model creation. We used CNN for model building.
 
 gui.py contains the code for our GUI which includes add, back, clear buttons to help the user make the sentence. We also have a button to read the whole sentence using GTTS. I have also attached the models which aren't very accurate and contain data only for A-E. you can add training and testing images by changing the mode in sign language custom file and train your own model.
+
+To run the gui - python gui.py
+
+output:
+
+![image](https://user-images.githubusercontent.com/88571564/167299918-06f088c6-b989-41fa-bcf7-7e7deabb5fcf.png)
+   
+   
+   
+   
+   
+   
+   
+Thanks to emnikhil from this repo 
+https://github.com/emnikhil/Sign-Language-To-Text-Conversion
+Helped me with understanding of how to build gui, suggesions boxes. You can refer to this repo for detailed explanation of the model architecture.
+
+
 
