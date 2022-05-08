@@ -1,6 +1,6 @@
 # Sign_Language_Recognition_with_GUI
 
-Deep learning, and computer vision can be used too to make an impact on this cause.
+Deep learning, and computer vision can be used to make an impact on this cause.
 
 This can be very helpful for the deaf and dumb people in communicating with others as knowing sign language is not something that is common to all, our project can help with their communication.
 
@@ -42,7 +42,7 @@ output:
    
    
 Thanks to emnikhil from this repo 
-https://github.com/emnikhil/Sign-Language-To-Text-Conversion
+https://github.com/emnikhil/Sign-Language-To-Text-Conversion. 
 Helped me with understanding of how to build gui, suggesions boxes. You can refer to this repo for detailed explanation of the model architecture.
 
 
